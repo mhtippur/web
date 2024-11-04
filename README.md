@@ -1,4 +1,4 @@
-# About Me 
+# Megha H. Tippur
 I am a PhD student at MIT CSAIL working with Professor Edward H. Adelson in the Perceptual Science Group. My current research explores the development and use of tactile sensing to improve dexterous robotic manipulation. I have also had the opportunity to work with Professor Pulkit Agrawal (Improbably AI Lab), and I am grateful to have been supported by the NSF Graduate Research Fellowship and the MIT MechE Chang-Mansfield Fellowship. 
 
 Previously, I graduated from the Georgia Institute of Technology in Electrical Engineering. As an undergraduate, I was fortunate to work on a variety of soft robotics and biomedical engineering projects, advised by Professor Frank Hammond III (ARM Lab at Georgia Tech), Professor Cynthia Sung (GRASP Lab at University of Pennsylvania), and Professor Robert Butera (Neural Engineering Lab at Georgia Tech). I also spent time at NASA’s Jet Propulsion Laboratory (JPL) as a Caltech WAVE Fellow.
