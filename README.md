@@ -28,6 +28,8 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
 *Transactions on Robotics (T-RO), Under Review* <br>
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
+<br>
+<br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
