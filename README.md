@@ -1,3 +1,5 @@
+Publications | Resume | Google Scholar | Email
+
 # Megha H. Tippur
 
 [Email](mailto:mhtippur@mit.edu) \ [Google Scholar](https://scholar.google.com/citations?user=ucnPAUAAAAAJ&hl=en) \ [Resume](files/MeghaTippur_Resume.pdf) 
