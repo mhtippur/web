@@ -1,4 +1,3 @@
-[Email](mailto:mhtippur@mit.edu) | [Google Scholar](publications.md) | [Resume](files/MeghaTippur_Resume.pdf)
 # Megha H. Tippur
 
 [Email](mailto:mhtippur@mit.edu) \ [Google Scholar](https://scholar.google.com/citations?user=ucnPAUAAAAAJ&hl=en) \ [Resume](files/MeghaTippur_Resume.pdf)
@@ -17,27 +16,27 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 [Paper](files/RainbowSight.pdf) \ [Link](https://ieeexplore.ieee.org/document/10609863)<br>
 <br>
 
-## Tactile-Reactive Roller Grasper ## 
+## [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946) ## 
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
 *Transactions on Robotics (T-RO), under review* <br>
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
 
-## Visual Dexterity: In-Hand Dexterous Manipulation from Depth ##
+## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
 [Paper](files/VisualDexterity.pdf) \ [Link](https://www.science.org/doi/10.1126/scirobotics.adc9244) \ [Project Page](https://taochenshh.github.io/projects/visual-dexterity) <br>
 
-## Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation ##
+## [Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://ieeexplore.ieee.org/document/10122097) ##
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Soft Robots (RoboSoft), 2023*, **Best Paper Finalist** <br>
 [Paper](files/Gelsight360.pdf) \ [Link](https://ieeexplore.ieee.org/document/10122097) <br>
 
-## TactoFind: A Tactile Only System for Object Retrieval##
+## [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind) ##
 Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pulkit Agrawal<br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2023*<br>
 [Paper](files/TactoFind.pdf) \ [Link](https://ieeexplore.ieee.org/document/10160289) \ [Project Page](https://taochenshh.github.io/projects/tactofind)<br>
 
-## Fabrication and Characterization of I-cord Knitted SMA Actuators##
+## [Fabrication and Characterization of I-cord Knitted SMA Actuators] (https://ieeexplore.ieee.org/document/9479207) ##
 Christopher Kim, Athena Chien, **Megha Tippur**, Cynthia Sung <br>
 *IEEE International Conference on Soft Robots (RoboSoft), 2021*<br>
 [Paper](files/SMAActuators.pdf) \ [Link](https://ieeexplore.ieee.org/document/9479207)
