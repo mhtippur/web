@@ -23,7 +23,7 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 
 ## [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946) ##  
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
-<img src="images/tactile_reactive_gripper.jpg" alt="Alt Text" style="width:25%; height:auto;"><br>
+<img src="images/tactile_reactive_gripper.jpg" alt="Alt Text" align= 'left'style="width:25%; height:auto;"><br>
 *Transactions on Robotics (T-RO), Under Review* <br>
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
 
