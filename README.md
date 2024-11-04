@@ -7,7 +7,7 @@ I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with Profe
 Previously, I graduated from the Georgia Institute of Technology in Electrical Engineering. During my time there, I was fortunate enough to work on a variety of soft robotics and biomedical engineering projects, advised by Professor Frank Hammond III ([ARM Lab](https://armlab.gatech.edu/) at Georgia Tech), Professor Cynthia Sung ([GRASP Lab](https://sung.seas.upenn.edu/people/sung/) at UPenn), and Professor Robert Butera ([Neural Engineering Lab](https://bme.gatech.edu/bme/faculty/Robert-Butera) at Georgia Tech). I also spent time at NASA’s Jet Propulsion Laboratory (JPL) as a Caltech WAVE Fellow.
 
 
-# Related Publications <br>
+# Related Publications <br> #
 
 ## [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863) ##
 <!-- ![image](images/rainbowsight.png) -->
@@ -28,7 +28,7 @@ Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agra
 
 ## [Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://ieeexplore.ieee.org/document/10122097) ##
 **Megha Tippur** and Edward H. Adelson <br>
-*IEEE International Conference on Soft Robots (RoboSoft), 2023*, <ins>**Best Paper Finalist**<ins> <br>
+*IEEE International Conference on Soft Robots (RoboSoft), 2023*, <ins>**Best Paper Finalist**<ins><br>
 [Paper](files/Gelsight360.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10122097) <br>
 
 ## [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind) ##
