@@ -11,7 +11,7 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 
 ## RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction <br>
 <!-- ![image](images/rainbowsight.png) -->
-**Megha H. Tippur** and Edward H. Adelson <br>
+**Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
 [Paper](files/RainbowSight.pdf) \ [Link](https://ieeexplore.ieee.org/document/10609863)<br>
 <br>
@@ -22,6 +22,11 @@ Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Ed
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
 
 ## Visual Dexterity: In-Hand Dexterous Manipulation from Depth <br>
-Tao Chen, *Megha Tippur*, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
+Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
 [Paper](files/VisualDexterity.pdf) \ [Link](https://www.science.org/doi/10.1126/scirobotics.adc9244) \ [Project Page](https://taochenshh.github.io/projects/visual-dexterity) <br>
+
+## Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation <br>
+**Megha Tippur** and Edward H. Adelson <br>
+*RoboSoft, 2023*, **Best Paper Finalist** <br>
+[Paper](files/Gelsight360.pdf) \ [Link](https://ieeexplore.ieee.org/document/10122097) <br>
