@@ -1,3 +1,4 @@
+[Email](mailto:mhtippur@mit.edu) | [Google Scholar](publications.md) | [Resume](files/MeghaTippur_Resume.pdf)
 # Megha H. Tippur
 
 [Email](mailto:mhtippur@mit.edu) \ [Google Scholar](https://scholar.google.com/citations?user=ucnPAUAAAAAJ&hl=en) \ [Resume](files/MeghaTippur_Resume.pdf)
@@ -9,7 +10,7 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 
 # Publications <br>
 
-## [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863 ##
+## [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863) ##
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
