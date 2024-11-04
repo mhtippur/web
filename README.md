@@ -28,7 +28,7 @@ Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agra
 
 ## [Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://ieeexplore.ieee.org/document/10122097) ##
 **Megha Tippur** and Edward H. Adelson <br>
-*IEEE International Conference on Soft Robots (RoboSoft), 2023*, **__Best Paper Finalist__** <br>
+*IEEE International Conference on Soft Robots (RoboSoft), 2023*, <ins>**Best Paper Finalist**<ins> <br>
 [Paper](files/Gelsight360.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10122097) <br>
 
 ## [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind) ##
