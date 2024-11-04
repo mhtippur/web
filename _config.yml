@@ -1,9 +1,9 @@
 title: " "
-logo: images/MeghaTippur_Headshot_Round.png
-description: ' '
-show_downloads: false
-theme: jekyll-theme-minimal
-github:
-  is_project_page: false
-header_pages:
-  - about.md 
+# logo: images/MeghaTippur_Headshot_Round.png
+# description: ' '
+# show_downloads: false
+# theme: jekyll-theme-minimal
+# github:
+#   is_project_page: false
+# header_pages:
+#   - about.md 
