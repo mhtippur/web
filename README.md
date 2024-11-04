@@ -1,4 +1,4 @@
-Publications | [Resume](files/MeghaTippur_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=ucnPAUAAAAAJ&hl=en) | [Email](mailto:mhtippur@mit.edu)
+[Publications](publications.md) | [Resume](files/MeghaTippur_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=ucnPAUAAAAAJ&hl=en) | [Email](mailto:mhtippur@mit.edu)
 
 
 # Megha H. Tippur
