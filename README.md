@@ -46,6 +46,9 @@ Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pu
 (\* denotes equal contribution)<br>
 
 ## [Fabrication and Characterization of I-cord Knitted SMA Actuators](https://ieeexplore.ieee.org/document/9479207) ##
+<div style="float: right; width: 25%;">
+  <img src="images/knitted_icord.png" alt="Alt Text" style="width:100%; height:auto;">
+</div>
 Christopher Kim, Athena Chien, **Megha Tippur**, Cynthia Sung <br>
 *IEEE International Conference on Soft Robots (RoboSoft), 2021*<br>
 [Paper](files/SMAActuators.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/9479207)
