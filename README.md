@@ -11,7 +11,9 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 
 ### RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction
 Megha H. Tippur and Edward H. Adelson
+
 *IEEE International Conference on Robotics and Automation (ICRA), 2024*
-Paper | Arxiv 
+
+Paper \ Arxiv 
 
 ##
