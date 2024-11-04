@@ -35,6 +35,7 @@ Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agra
 Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pulkit Agrawal<br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2023*<br>
 [Paper](files/TactoFind.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10160289) \ [Project Page](https://taochenshh.github.io/projects/tactofind)<br>
+(\* denotes equal contribution)<br>
 
 ## [Fabrication and Characterization of I-cord Knitted SMA Actuators](https://ieeexplore.ieee.org/document/9479207) ##
 Christopher Kim, Athena Chien, **Megha Tippur**, Cynthia Sung <br>
