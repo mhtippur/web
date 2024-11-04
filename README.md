@@ -6,14 +6,12 @@ I am a PhD student at [MIT CSAIL](https://www.csail.mit.edu/) working with Profe
 
 Previously, I graduated from the Georgia Institute of Technology in Electrical Engineering. During my time there, I was fortunate to work on a variety of soft robotics and biomedical engineering projects, advised by Professor Frank Hammond III ([ARM Lab](https://armlab.gatech.edu/) at Georgia Tech), Professor Cynthia Sung ([GRASP Lab](https://sung.seas.upenn.edu/people/sung/) at UPenn), and Professor Robert Butera ([Neural Engineering Lab](https://bme.gatech.edu/bme/faculty/Robert-Butera) at Georgia Tech). I also spent time at NASA’s Jet Propulsion Laboratory (JPL) as a Caltech WAVE Fellow.
 
+
 # Publications
 
 ### RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction
-
 Megha H. Tippur and Edward H. Adelson
-
-IEEE International Conference on Robotics and Automation (ICRA), 2024 
-
+*IEEE International Conference on Robotics and Automation (ICRA), 2024*
 Paper | Arxiv 
 
 ##
