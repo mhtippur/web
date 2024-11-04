@@ -22,7 +22,7 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
-[Paper](files/RainbowSight.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10609863)<br>
+[Paper](files/RainbowSight.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10609863) \ [Project Page](https://mhtippur.github.io/rainbowsight/)<br>
 <br>
 
 <div style="float: right; width: 20%;">
