@@ -12,6 +12,7 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 ## Learning Visuotactile Correspondences for Robotic Cloth Manipulation ##
 Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 *In Preparation* <br>
+(\* denotes equal contribution)<br>
 
 ## [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863) ##
 <!-- ![image](images/rainbowsight.png) -->
