@@ -21,18 +21,19 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 [Paper](files/RainbowSight.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10609863)<br>
 <br>
 
-## [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946) ##  
 <div style="float: right; width: 20%;">
   <img src="images/tactile_reactive_gripper.jpg" alt="Alt Text" style="width:100%; height:auto;">
 </div>
+## [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946) ##  
+
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
 *Transactions on Robotics (T-RO), Under Review* <br>
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
 <br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
-<div style="float: right; width: 40%;">
-  <img src="images/visual_dexterity.png" alt="Alt Text" style="width:100%; height:auto;">
+<div style="float: right; width: 30%;">
+  <img src="images/visual_dexterirty.png" alt="Alt Text" style="width:100%; height:auto;">
 </div>
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
@@ -47,7 +48,7 @@ Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agra
 [Paper](files/Gelsight360.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10122097) <br>
 
 ## [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind) ##
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 30%;">
   <img src="images/tactofind_teaser.png" alt="Alt Text" style="width:100%; height:auto;">
 </div>
 Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pulkit Agrawal<br>
