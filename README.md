@@ -31,13 +31,16 @@ Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Ed
 <br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
+<div style="float: right; width: 40%;">
+  <img src="images/visual_dexterity.png" alt="Alt Text" style="width:100%; height:auto;">
+</div>
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
 [Paper](files/VisualDexterity.pdf) \ [Paper Link](https://www.science.org/doi/10.1126/scirobotics.adc9244) \ [Project Page](https://taochenshh.github.io/projects/visual-dexterity) <br>
 
 ## [Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://ieeexplore.ieee.org/document/10122097) ##
-<div style="float: right; width: 25%;">
-  <img src="images/gs360.png" alt="Alt Text" style="width:100%; height:auto;">
+<div style="float: right; width: 20%;">
+  <img src="images/gs360.png" alt="Alt Text" style="width:90%; height:auto;">
 </div>
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Soft Robots (RoboSoft), 2023*, **<ins>Best Paper Finalist</ins>**<br>
