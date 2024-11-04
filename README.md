@@ -43,7 +43,7 @@ Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agra
 
 ## [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind) ##
 <div style="float: right; width: 25%;">
-  <img src="images/tactofind_teaser.png" alt="Alt Text" style="width:100%; height:auto;">
+  <img src="images/tactofind_teaser.png" alt="Alt Text" style="width:100%; height:110%;">
 </div>
 Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pulkit Agrawal<br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2023*<br>
