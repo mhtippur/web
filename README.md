@@ -14,6 +14,9 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 *In Preparation* <br>
 (\* denotes equal contribution)<br>
 
+<div style="float: right; width: 20%;">
+  <img src="images/rainbowsight.png" alt="Alt Text" style="width:100%; height:auto;">
+</div>
 ## [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863) ##
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
