@@ -41,6 +41,8 @@ Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Ed
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
 [Paper](files/VisualDexterity.pdf) \ [Paper Link](https://www.science.org/doi/10.1126/scirobotics.adc9244) \ [Project Page](https://taochenshh.github.io/projects/visual-dexterity) <br>
+<br>
+<br>
 
 <div style="float: right; width: 20%;">
   <img src="images/gs360.png" alt="Alt Text" style="width:100%; height:auto;">
