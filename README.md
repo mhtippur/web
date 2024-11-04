@@ -37,7 +37,7 @@ Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Ed
 <br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
-<div style="float: right; width: 25%;">
+<div style="float: right; width: 27%;">
   <img src="images/visual_dexterirty.png" alt="Alt Text" style="width:100%; height:auto;">
 </div>
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
