@@ -14,7 +14,6 @@ Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
 *In Preparation* <br>
 (\* denotes equal contribution)<br>
 <br>
-<br>
 
 <div style="float: right; width: 20%;">
   <img src="images/rainbowsight.png" alt="Alt Text" style="width:100%; height:auto;">
