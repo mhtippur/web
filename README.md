@@ -9,24 +9,34 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 
 # Publications <br>
 
-## RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction
+## RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors for Shape Reconstruction##
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
 [Paper](files/RainbowSight.pdf) \ [Link](https://ieeexplore.ieee.org/document/10609863)<br>
 <br>
 
-## Tactile-Reactive Roller Grasper ## 
+## Tactile-Reactive Roller Grasper## 
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
 *Transactions on Robotics (T-RO), under review* <br>
 [Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
 
-## Visual Dexterity: In-Hand Dexterous Manipulation from Depth
+## Visual Dexterity: In-Hand Dexterous Manipulation from Depth##
 Tao Chen, **Megha Tippur**, Siyang Wu, Vikash Kumar, Edward Adelson, Pulkit Agrawal <br>
 *Science Robotics, 2023* <br>
 [Paper](files/VisualDexterity.pdf) \ [Link](https://www.science.org/doi/10.1126/scirobotics.adc9244) \ [Project Page](https://taochenshh.github.io/projects/visual-dexterity) <br>
 
-## Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation
+## Gelsight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation##
 **Megha Tippur** and Edward H. Adelson <br>
-*RoboSoft, 2023*, **Best Paper Finalist** <br>
+*IEEE International Conference on Soft Robots (RoboSoft), 2023*, **Best Paper Finalist** <br>
 [Paper](files/Gelsight360.pdf) \ [Link](https://ieeexplore.ieee.org/document/10122097) <br>
+
+## TactoFind: A Tactile Only System for Object Retrieval##
+Sameer Pai\*, Tao Chen\*, **Megha Tippur\***, Edward Adelson, Abhishek Gupta, Pulkit Agrawal<br>
+*IEEE International Conference on Robotics and Automation (ICRA), 2023*<br>
+[Paper](files/TactoFind.pdf) \ [Link](https://ieeexplore.ieee.org/document/10160289) \ [Project Page](https://taochenshh.github.io/projects/tactofind)<br>
+
+## Fabrication and Characterization of I-cord Knitted SMA Actuators##
+Christopher Kim, Athena Chien, **Megha Tippur**, Cynthia Sung <br>
+*IEEE International Conference on Soft Robots (RoboSoft), 2021*<br>
+[Paper](files/SMAActuators.pdf) \ [Link](https://ieeexplore.ieee.org/document/9479207)
