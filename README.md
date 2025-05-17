@@ -32,7 +32,7 @@ Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodrig
 
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
 *Transactions on Robotics (T-RO), 2025* <br>
-[Paper](files/TactileReactive.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10892188) \ [Project Page] (https://yuanshenli.com/tactile_reactive_roller_grasper.html)<br>
+[Paper](files/TactileReactive.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10892188) \ [Project Page](https://yuanshenli.com/tactile_reactive_roller_grasper.html) <br>
 <br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
