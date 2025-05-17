@@ -9,9 +9,9 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 <br>
 
 # Related Publications <br> #
-## *Coming Soon:* [Learning Visuotactile Correspondences for Robotic Cloth Manipulation](https://mhtippur.github.io/web/#rainbowsight-a-family-of-generalizable-curved-camera-based-tactile-sensors-for-shape-reconstruction) ## 
+## [Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance](https://mhtippur.github.io/web/#rainbowsight-a-family-of-generalizable-curved-camera-based-tactile-sensors-for-shape-reconstruction) ## 
 Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodriguez <br>
-*Under Review, CoRL 2025* <br>
+*Under Review, Conference on Robot Learning (CoRL) 2025* <br>
 (\* denotes equal contribution)<br>
 <br>
 
@@ -31,8 +31,8 @@ Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodrig
 ## [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946) ##  
 
 Shenli Yuan\*, Shaoxiong Wang\*, Radhen Patel, **Megha Tippur**, Connor Yako, Edward Adelson, Kenneth Salisbury <br>
-*Transactions on Robotics (T-RO), Under Review* <br>
-[Paper](files/TactileReactive.pdf) \ [Arxiv](https://arxiv.org/abs/2306.09946) <br>
+*Transactions on Robotics (T-RO), 2025* <br>
+[Paper](files/TactileReactive.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10892188) \ [Project Page] (https://yuanshenli.com/tactile_reactive_roller_grasper.html)<br>
 <br>
 
 ## [Visual Dexterity: In-Hand Dexterous Manipulation from Depth](https://www.science.org/doi/10.1126/scirobotics.adc9244) ##
