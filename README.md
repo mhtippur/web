@@ -10,8 +10,8 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 
 # Related Publications <br> #
 ## *Coming Soon:* [Learning Visuotactile Correspondences for Robotic Cloth Manipulation](https://mhtippur.github.io/web/#rainbowsight-a-family-of-generalizable-curved-camera-based-tactile-sensors-for-shape-reconstruction) ## 
-Neha Sunil\*, **Megha Tippur\***, Edward Adelson, Alberto Rodriguez <br>
-*In Preparation* <br>
+Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodriguez <br>
+*Under Review, CoRL 2025* <br>
 (\* denotes equal contribution)<br>
 <br>
 
