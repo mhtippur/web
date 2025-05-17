@@ -11,7 +11,8 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 # Related Publications <br> #
 ## [Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance](https://mhtippur.github.io/web/#rainbowsight-a-family-of-generalizable-curved-camera-based-tactile-sensors-for-shape-reconstruction) ## 
 Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodriguez <br>
-*Under Review, Conference on Robot Learning (CoRL) 2025* <br>
+*Under Review, Conference on Robot Learning (CoRL), 2025* <br>
+[Paper](files/ClothFolding.pdf)<br>
 (\* denotes equal contribution)<br>
 <br>
 
