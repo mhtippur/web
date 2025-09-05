@@ -16,8 +16,8 @@ Previously, I graduated from the Georgia Institute of Technology in Electrical E
 </div>
 ## [Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance](https://mhtippur.github.io/web/#rainbowsight-a-family-of-generalizable-curved-camera-based-tactile-sensors-for-shape-reconstruction) ## 
 Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodriguez <br>
-*Conference on Robot Learning (CoRL), 2025* <br>
-[Paper](files/ClothFolding.pdf)<br>
+*Conference on Robot Learning (CoRL), 2025, Oral Presentation* <br>
+[Paper](files/ClothFolding.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10892188) \ [Project Page](https://yuanshenli.com/tactile_reactive_roller_grasper.html)<br>
 (\* denotes equal contribution)<br>
 <br>
 
@@ -28,7 +28,7 @@ Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodrig
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
-[Paper](files/RainbowSight.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10609863) \ [Project Page](https://mhtippur.github.io/rainbowsight/)<br>
+[Paper](files/RainbowSight.pdf) \ [Paper Link](https://arxiv.org/abs/2509.03889) \ [Project Page](https://mhtippur.github.io/inairclothmanipulation/)<br>
 <br>
 
 <div style="float: right; width: 20%;">
