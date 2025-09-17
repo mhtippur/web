@@ -28,7 +28,7 @@ Neha Sunil\*, **Megha Tippur\***, Arnau Portillo, Edward Adelson, Alberto Rodrig
 <!-- ![image](images/rainbowsight.png) -->
 **Megha Tippur** and Edward H. Adelson <br>
 *IEEE International Conference on Robotics and Automation (ICRA), 2024* <br>
-[Paper](files/RainbowSight.pdf) \ [Paper Link](https://arxiv.org/abs/2509.03889) \ [Project Page](https://mhtippur.github.io/inairclothmanipulation/)<br>
+[Paper](files/RainbowSight.pdf) \ [Paper Link](https://ieeexplore.ieee.org/document/10609863) \ [Project Page](https://mhtippur.github.io/rainbowsight/)<br>
 <br>
 
 <div style="float: right; width: 20%;">
